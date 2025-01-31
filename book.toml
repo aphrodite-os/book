@@ -1,0 +1,6 @@
+[book]
+authors = ["Arthur Beck"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Aphrodite"
