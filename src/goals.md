@@ -10,3 +10,5 @@
 - Have everything well documented
 - Have good tests for everything
 - Be written in rust as much as possible
+- Require as few dependencies as possible
+- Build quick. May be sacrificied if necessary.
